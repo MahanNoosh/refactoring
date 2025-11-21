@@ -1,7 +1,7 @@
-b972368 (HEAD -> main, origin/main, origin/HEAD) 2.4
-99e8626 2.3
-4bffec9 2.2
-2eec9b8 2.1
+b972368 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+99e8626 Task 2.3
+4bffec9 Task 2.2
+2eec9b8 Task 2.1
 85c2022 Task 1.2
-585af5f 1.1
+585af5f Task 1.1
 3b2f1be Initial commit
